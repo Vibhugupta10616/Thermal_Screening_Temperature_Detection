@@ -1,4 +1,4 @@
-# Thermal Screening Using Computer Vision
+# Thermal Screening Temperature Detection
 
 #### A Temperature Detector Project made by processing Thermal Images using OpenCV.
 
