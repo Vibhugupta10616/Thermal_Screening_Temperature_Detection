@@ -3,8 +3,8 @@
 #### A Temperature Detector Project made by processing Thermal Images using OpenCV.
 
 <div class="row">
-    <img src="sample images/Screenshot (206).png" width=500 height=550 >
-    <img src="outputs/Screenshot (191).png" width=500 height=550>
+    <img src="sample images/Screenshot (206).png" width=380 height=500 >
+    <img src="outputs/Screenshot (191).png" width=380 height=500>
 </div>
 
 ## Dataset
