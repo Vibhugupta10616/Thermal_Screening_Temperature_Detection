@@ -1,7 +1,8 @@
 # Thermal Screening Temperature Detection
 
-#### A Temperature Detector Project made by processing Thermal Images using OpenCV.
+In this project I have done temperature detection by processing thermal images using OpenCV.
 
+###Demo:
 <div class="row">
     <img src="sample images/Screenshot (206).png" width=400 height=480>
     <img src="outputs/Screenshot (191).png" width=400 height=480>
